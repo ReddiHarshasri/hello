@@ -1,2 +1,0 @@
-hello gitHub
-updated hello.txt
